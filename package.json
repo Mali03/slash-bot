@@ -1,0 +1,15 @@
+{
+  "name": "slash-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "clear"
+  },
+  "keywords": [],
+  "author": "Mali#0001",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
